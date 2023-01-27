@@ -1,0 +1,11 @@
+STRUCTURE OF THE PROJECT 
+	-> /FONTS
+		-> all project's packages
+		-> file "Compilador&Executable" for compiling and executing
+	-> /EXE
+		-> Arxiu project.jar executable del projecte
+		-> /test cases
+	-> /Documentation: 
+		-> User manual (catalan only)
+		-> /JavaDoc
+		-> List of libraries used
